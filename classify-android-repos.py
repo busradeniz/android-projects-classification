@@ -10,7 +10,7 @@ repositorySerchUrl = 'https://api.github.com/search/repositories'
 codeSearchUrl = 'https://api.github.com/search/code'
 
 # Auth Header
-access_token = '06d27c962fde52d601905e568bde0f617c59ed3b'
+access_token = 'ACCESS_TOKEN'
 
 # File Names
 filename = 'repos-to-classify.json'
